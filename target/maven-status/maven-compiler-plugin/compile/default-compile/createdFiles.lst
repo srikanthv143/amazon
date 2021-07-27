@@ -1,0 +1,3 @@
+io/curity/identityserver/plugin/maven/mavenSmsConfig.class
+io/curity/identityserver/plugin/maven/mavenSmsDescriptor.class
+io/curity/identityserver/plugin/maven/mavenSmsSender.class
